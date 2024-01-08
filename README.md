@@ -45,7 +45,9 @@ TBD
 
 ## Course Workload
 
-The course evaluation is project-based, emphasizing teamwork, practical application of data science techniques, and effective communication. Students will collaborate in teams to conceptualize and develop projects that reflect real-world problems and data scenarios. This includes drafting thorough project proposals, executing data science methodologies, and presenting their findings and models. Insightful peer reviews will be integral, providing a platform for constructive critique and learning. The hands-on experience is further enriched by the creation of engaging visual posters and dynamic in-class presentations, all designed to foster a deep understanding of responsible data science in action. For an in-depth guide to the project ideas and a comprehensive timeline, please refer to the designated [Google Docs]().
+In this course, students will engage in a project-based learning experience, emphasizing teamwork, practical application of data science techniques, and effective communication. Small groups of 2-3 students will collaborate to develop projects on topics relevant to the class. These projects can range from open-ended research that could potentially lead to a paper to the implementation and analysis of algorithms, building tools with GUIs for applications reponsible data sciense, or analyzing real and synthetic datasets. The focus is on applying responsible data science methodologies to real-world problems and data scenarios, rather than just reading papers or writing surveys.
+
+The course will have three checkpoints: an initial proposal, a midterm update, and a final report. Students are encouraged to meet with the instructor regularly for guidance. The project will culminate in a short in-class presentation. Evaluation will consider the team's effort, the results, the quality of the related work survey, and the effectiveness of their presentation and final report. Students will also participate in peer reviews, offering and receiving constructive feedback. To enhance the learning experience, students will create visual posters and dynamic presentations, aiming to foster a deep understanding of responsible data science. For detailed project ideas and refer to the provided [Google Docs]().
 
 
 ##Project Timeline
@@ -74,20 +76,20 @@ The course evaluation is project-based, emphasizing teamwork, practical applicat
 
 **(subject to change)**
 
-# Course Calendar: Winter Term
+# Course Calendar: 
 
-| Week | Dates               | Lecture Topics         | Slides       | Readings      |
-|------|---------------------|------------------------|--------------|---------------|
-| 1    | Jan 10 & Jan 12     | Introduction to Causal Inference | [Slides for Week 1](#) | [Reading 1](#), [Reading 2](#) |
-| 2    | Jan 17 & Jan 19     | Fundamentals of Probability and Statistics | [Slides for Week 2](#) | [Reading 3](#), [Reading 4](#) |
-| 3    | Jan 24 & Jan 26     | Experiment Design and A/B Testing | [Slides for Week 3](#) | [Reading 5](#), [Reading 6](#) |
-| 4    | Jan 31 & Feb 2      | Introduction to Machine Learning | [Slides for Week 4](#) | [Reading 7](#), [Reading 8](#) |
-| 5    | Feb 7 & Feb 9       | Algorithmic Fairness | [Slides for Week 5](#) | [Reading 9](#), [Reading 10](#) |
-| 6    | Feb 14 & Feb 16     | Bias and Fairness in Data | [Slides for Week 6](#) | [Reading 11](#), [Reading 12](#) |
-| 7    | Feb 21 & Feb 23     | Midterm Project Work | [Slides for Week 7](#) | [Reading 13](#) |
-| 8    | Feb 28 & Mar 2      | Explainable AI | [Slides for Week 8](#) | [Reading 14](#), [Reading 15](#) |
-| 9    | Mar 7 & Mar 9       | Data Cleaning, Profiling and Debiasing | [Slides for Week 9](#) | [Reading 16](#), [Reading 17](#) |
-| 10   | Mar 14 & Mar 16     | Final Project Presentations | [Slides for Week 10](#) | [Reading 18](#) |
+| Week | Date               | Lecture Topics                         | Slides       | Readings                            |
+|------|---------------------|----------------------------------------|--------------|------------------------------------|
+| 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](#) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf), [Reading 2](#)      |
+| 2    | Jan 15      | Protentional Outcome, Structural Causal Models                         |              |                                    |
+| 3    | Jan 22      | Identfication, Causal Discovery                        |              |                                    |
+| 4    | Jan 29       | Algorithmic Fairness                    |              |                                    |
+| 5    | Feb 5       | Fair Ranking (Guest Lecture), Causal Estimation (Guest Lecture)                    |              |                                    |
+| 6    | Feb 12      | Fairness and Privacy (Guest Lecture), Explainable AI                          |              |                                    |
+| 7    | Feb 19      | Explainable AI                          |              |                                    |
+| 8    | Feb 26       | Data Cleaning, Profiling and Debiasing  |              |                                    |
+| 9    | Mar 4        | Data Cleaning, Profiling and Debiasing  |              |                                    |
+| 10   | Mar 11      | Final Project Presentations             |              |                                    |
 
 **Note**: The readings and slides are placeholders and should be replaced with actual links to resources.
 
@@ -97,10 +99,14 @@ The course evaluation is project-based, emphasizing teamwork, practical applicat
 
 ## Textbook
 
-Although a textbook is not required in the course, the following textbook is optional and recommended. Lecture slides and recorded videos would be sufficient for this class.
+[Causal Inference in Statistics: A Primer
+](http://bayes.cs.ucla.edu/PRIMER/) 
 
-Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. 2nd Edition. Prentice Hall. 2008.
+[Trustworthy Machine Learning](http://www.trustworthymachinelearning.com/)
 
+[Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/)
 
+[Interpretable Machine Learning
+A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
 
 
