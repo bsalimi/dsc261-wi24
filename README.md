@@ -18,7 +18,7 @@ This course delves into Responsible Data Science, emphasizing the importance of 
 
 **Course Assistants:**
 
-Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)
+Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)</br>
 Jiongli Zhu, [jiz143@ucsd.edu](mailto:jiz143@ucsd.edu)
 
 **Lectures**:
