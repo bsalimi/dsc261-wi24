@@ -20,7 +20,7 @@ This course delves into Responsible Data Science, emphasizing the importance of 
 **Course Assistants:**
 
 Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)</br>
-Jiongli Zhu, [jiz143@ucsd.edu](mailto:jiz143@ucsd.edu)
+Jiongli Zhu, [jiz143@ucsd.edu](mailto:jiz143@ucsd.edu)</br>
 Parjanya Prashant, [pprashant@ucsd.edu](mailto:pprashant@ucsd.edu)
 
 
@@ -33,7 +33,7 @@ Tuesdays and Thursdays at	5:00pm-6:20pm
 
 **Office Hours:**
 
-Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)
+Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)</br>
 Parjanya Prashant: Wed 13:00-14:00. [Zoom link](https://ucsd.zoom.us/j/2410312532)
 
 
