@@ -33,7 +33,7 @@ Tuesdays and Thursdays at	5:00pm-6:20pm
 
 **Office Hours:**
 
-Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)</br>
+Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)   
 Parjanya Prashant: Wed 13:00-14:00. [Zoom link](https://ucsd.zoom.us/j/2410312532)
 
 
