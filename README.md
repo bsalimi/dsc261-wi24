@@ -1,4 +1,5 @@
-![Responsible Data Science](fig/rds.png)
+![Image genarted using DALL·E](fig/rds.png)
+
 
 # DSC 261: Responsible Data Science 
 
