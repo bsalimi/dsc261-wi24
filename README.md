@@ -57,7 +57,7 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 ### Week 1: Project Kickoff
 - **Activities**: Introduction to course and project guidelines. Begin forming teams.
 
-### Week 2: (Team Formation) [https://forms.gle/Cwzqtrn5reG9K2pt8] and Topic Selection
+### Week 2: (Team Formation)[https://forms.gle/Cwzqtrn5reG9K2pt8] and Topic Selection
 - **Activities**: Finalize teams. Select project topics and submit initial ideas for approval.
 
 ### Week 3: Project Proposal Development
