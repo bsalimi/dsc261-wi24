@@ -45,9 +45,9 @@ TBD
 
 ## Course Workload
 
-In this course, students will engage in a project-based learning experience, emphasizing teamwork, practical application of data science techniques, and effective communication. Small groups of 2-3 students will collaborate to develop projects on topics relevant to the class. These projects can range from open-ended research that could potentially lead to a paper to the implementation and analysis of algorithms, building tools with GUIs for applications reponsible data sciense, or analyzing real and synthetic datasets. The focus is on applying responsible data science methodologies to real-world problems and data scenarios, rather than just reading papers or writing surveys.
+In this course, students will engage in a project-based learning experience, emphasizing teamwork, practical application of data science techniques, and effective communication. Groups of 4-6 students will collaborate to develop projects on topics relevant to the class. These projects can range from open-ended research that could potentially lead to a paper to the implementation and analysis of algorithms, building tools with GUIs for applications reponsible data sciense, or analyzing real and synthetic datasets. The focus is on applying responsible data science methodologies to real-world problems and data scenarios, rather than just reading papers or writing surveys.
 
-The course will have three checkpoints: an initial proposal, a midterm update, and a final report. Students are encouraged to meet with the instructor regularly for guidance. The project will culminate in a short in-class presentation. Evaluation will consider the team's effort, the results, the quality of the related work survey, and the effectiveness of their presentation and final report. Students will also participate in peer reviews, offering and receiving constructive feedback. To enhance the learning experience, students will create visual posters and dynamic presentations, aiming to foster a deep understanding of responsible data science. For detailed project ideas and refer to the provided [Google Docs]().
+The course will have three checkpoints: an initial proposal, a midterm update, and a final report. Students are encouraged to meet with the instructor regularly for guidance. The project will culminate in a short in-class presentation. Evaluation will consider the team's effort, the results, the quality of the related work survey, and the effectiveness of their presentation and final report. Students will also participate in peer reviews, offering and receiving constructive feedback. To enhance the learning experience, students will create visual posters and dynamic presentations, aiming to foster a deep understanding of responsible data science. For detailed project ideas and refer to the provided [Google Docs](https://docs.google.com/document/d/1kHHP4fdphdSLMjyppPO7sn2Ux_j_9ABr3q-u447_GrU/edit?usp=sharing).
 
 
 ##Project Timeline
@@ -80,7 +80,7 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 
 | Week | Date               | Lecture Topics                         | Slides       | Readings                            |
 |------|---------------------|----------------------------------------|--------------|------------------------------------|
-| 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](#) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf), [Reading 2](#)      |
+| 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](#) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf)     |
 | 2    | Jan 15      | Protentional Outcome, Structural Causal Models                         |              |                                    |
 | 3    | Jan 22      | Identfication, Causal Discovery                        |              |                                    |
 | 4    | Jan 29       | Algorithmic Fairness                    |              |                                    |
