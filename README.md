@@ -73,6 +73,15 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 - **Activities**: Finalize project outcomes. Prepare demonstration models and poster presentations.
 
 
+## Grading Criteria
+
+- **Project Proposal:** 20%
+- **Execution:** 30%
+- **Demonstration:** 20%
+- **Presentation:** 20%
+- **Class Participation:** 10%
+
+
 
 ## **Calender:**
 
@@ -82,7 +91,7 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 
 | Week | Date               | Lecture Topics                         | Slides       | Readings                            |
 |------|---------------------|----------------------------------------|--------------|------------------------------------|
-| 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](#) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf)     |
+| 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](https://drive.google.com/file/d/13kVyZhSuy4AlyiAFjEL75dD9Gpl3QWCR/view?usp=sharing) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf)     |
 | 2    | Jan 15      | Protentional Outcome, Structural Causal Models                         |              |                                    |
 | 3    | Jan 22      | Identification, Causal Discovery                        |              |                                    |
 | 4    | Jan 29       | Algorithmic Fairness                    |              |                                    |
