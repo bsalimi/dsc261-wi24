@@ -19,8 +19,10 @@ This course delves into Responsible Data Science, emphasizing the importance of 
 
 **Course Assistants:**
 
-Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)</br>
-Jiongli Zhu, [jiz143@ucsd.edu](mailto:jiz143@ucsd.edu)
+Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)  
+Jiongli Zhu, [jiz143@ucsd.edu](mailto:jiz143@ucsd.edu)   
+Parjanya Prashant, [pprashant@ucsd.edu](mailto:pprashant@ucsd.edu)  
+
 
 **Lectures**:
 
@@ -30,19 +32,16 @@ Tuesdays and Thursdays at	5:00pm-6:20pm
 
 
 **Office Hours:**
+Baharan Khatami: Mon 15:00-16:00. [Zoom link](https://ucsd.zoom.us/j/3995044290?pwd=YTVPeXRsVTU2aEJ6WEc4OERHTHVZQT09)
+Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)   
+Parjanya Prashant: Wed 13:00-14:00. [Zoom link](https://ucsd.zoom.us/j/2410312532)
 
-Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
 
 
 
 
-
-
-
-## Course Workload
-**(subject to change)**
 
 ## Course Workload
 
@@ -52,13 +51,13 @@ In this course, students will engage in a project-based learning experience, emp
 The course will have three checkpoints: an initial proposal, a midterm update, and a final report. Students are encouraged to meet with the instructor regularly for guidance. The project will culminate in a short in-class presentation. Evaluation will consider the team's effort, the results, the quality of the related work survey, and the effectiveness of their presentation and final report. Students will also participate in peer reviews, offering and receiving constructive feedback. To enhance the learning experience, students will create visual posters and dynamic presentations, aiming to foster a deep understanding of responsible data science. For detailed project ideas and refer to the provided [Google Docs](https://docs.google.com/document/d/1kHHP4fdphdSLMjyppPO7sn2Ux_j_9ABr3q-u447_GrU/edit?usp=sharing).
 
 
-##Project Timeline
+## Project Timeline
 
 ### Week 1: Project Kickoff
 - **Activities**: Introduction to course and project guidelines. Begin forming teams.
 
 ### Week 2: Team Formation and Topic Selection
-- **Activities**: Finalize teams. Select project topics and submit initial ideas for approval.
+- **Activities**: Finalize teams [here](https://forms.gle/Cwzqtrn5reG9K2pt8). Select project topics and submit initial ideas for approval.
 
 ### Week 3: Project Proposal Development
 - **Activities**: Develop and refine project proposals. Closely work with TAs for brainstorming. Outline objectives, methodologies, and expected outcomes.
