@@ -93,14 +93,14 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 | Week | Date               | Lecture Topics                         | Slides       | Readings                            |
 |------|---------------------|----------------------------------------|--------------|------------------------------------|
 | 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](https://drive.google.com/file/d/13kVyZhSuy4AlyiAFjEL75dD9Gpl3QWCR/view?usp=sharing) [Slides](https://drive.google.com/file/d/13kVyZhSuy4AlyiAFjEL75dD9Gpl3QWCR/view?usp=sharing) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf)     |
-| 2    | Jan 15      | Protentional Outcome, Structural Causal Models                         |[Slides](https://drive.google.com/file/d/1fZh1nZzhHXOh7bxAUg-MV9u_x1aAuHMO/view?usp=drive_link) [Slides](https://drive.google.com/file/d/1vH04doINdgCGPN-bqc2pETRKESubdo94/view?usp=drive_link)              |                                    |
-| 3    | Jan 22      | Identification, Causal Discovery                        |              |                                    |
-| 4    | Jan 29       | Algorithmic Fairness                    |              |                                    |
-| 5    | Feb 5       | Fair Ranking (Guest Lecture), Causal Estimation (Guest Lecture)                    |              |                                    |
-| 6    | Feb 12      | Fairness and Privacy (Guest Lecture), Explainable AI                          |              |                                    |
-| 7    | Feb 19      | Explainable AI                          |              |                                    |
-| 8    | Feb 26       | Data Cleaning, Profiling and Debiasing  |              |                                    |
-| 9    | Mar 4        | Data Cleaning, Profiling and Debiasing  |              |                                    |
+| 2    | Jan 15      | Potential Outcome, Structural Causal Models                         |[Slides](https://drive.google.com/file/d/1fZh1nZzhHXOh7bxAUg-MV9u_x1aAuHMO/view?usp=drive_link) [Slides](https://drive.google.com/file/d/1vH04doINdgCGPN-bqc2pETRKESubdo94/view?usp=drive_link)              |                                    |
+| 3    | Jan 22      | Project Brainstorming                  |              |                                    |
+| 4    | Jan 29       | Structural Causal Models, Identification           |   [Slides](https://drive.google.com/file/d/1i-0G6tH7FYiGfVbuiaNzGDEIl3xBUHHg/view?usp=sharing )          |                                    |
+| 5    | Feb 5       | Causal Estimation (Guest Lecture), Fair Ranking (Guest Lecture)                    |              |                                    |
+| 6    | Feb 12      | Algorithmic Fairness                        |              |                                    |
+| 7    | Feb 19      | Fairness and Privacy (Guest Lecture), Data Cleaning                          |              |                                    |
+| 8    | Feb 26       | Data Profiling, Data Profiling (Guest Lecture)  |              |                                    |
+| 9    | Mar 4        |Explainable AI |              |                                    |
 | 10   | Mar 11      | Final Project Presentations             |              |                                    |
 
 **Note**: The readings and slides are placeholders and should be replaced with actual links to resources.
