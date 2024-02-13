@@ -98,7 +98,7 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 | 3    | Jan 22      | Project Brainstorming                  |              |                                    |
 | 4    | Jan 29       | Structural Causal Models, Identification           |   [Slides](https://drive.google.com/file/d/1i-0G6tH7FYiGfVbuiaNzGDEIl3xBUHHg/view?usp=sharing )  [Recording](https://drive.google.com/file/d/1z6BRUWoWf4F4i4y-e2sMzyrqT0SDZdBY/view?usp=sharing)        |                                    |
 | 5    | Feb 5       | Causal Estimation (Guest Lecture), Fair Ranking (Guest Lecture)                    |    [Recording](https://drive.google.com/file/d/1zBdVg35l9zbay9vHl_Vu2jNWceGjf-kA/view?usp=sharing)                  |                                    |
-| 6    | Feb 12      | Algorithmic Fairness                        |              |                                    |
+| 6    | Feb 12      | Algorithmic Fairness                        |   [Slides](https://drive.google.com/file/d/1-9DKhWQWAoxdhAXhaLoYQE71sn_0eoBL/view?usp=sharing)           |                                    |
 | 7    | Feb 19      | Fairness and Privacy (Guest Lecture), Data Cleaning                          |              |                                    |
 | 8    | Feb 26       | Data Profiling, Data Profiling (Guest Lecture)  |              |                                    |
 | 9    | Mar 4        |Explainable AI |              |                                    |
