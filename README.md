@@ -76,11 +76,12 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 
 ## Grading Criteria
 
-- **Project Proposal:** 20%
+- **Project Proposal:** 10%
 - **Execution:** 30%
-- **Demonstration:** 20%
-- **Presentation:** 20%
+- **Demonstration:** 15%
+- **Presentation:** 15%
 - **Class Participation:** 10%
+- **Final Exam:** 20%
 
 
 
@@ -95,8 +96,8 @@ The course will have three checkpoints: an initial proposal, a midterm update, a
 | 1    | Jan 9     | Course Overview, Introduction to Causal Inference | [Slides](https://drive.google.com/file/d/13kVyZhSuy4AlyiAFjEL75dD9Gpl3QWCR/view?usp=sharing) [Slides](https://drive.google.com/file/d/13kVyZhSuy4AlyiAFjEL75dD9Gpl3QWCR/view?usp=sharing) | [Understanding Simpson’s Paradox](https://ftp.cs.ucla.edu/pub/stat_ser/r414.pdf)     |
 | 2    | Jan 15      | Potential Outcome, Structural Causal Models                         |[Slides](https://drive.google.com/file/d/1fZh1nZzhHXOh7bxAUg-MV9u_x1aAuHMO/view?usp=drive_link) [Slides](https://drive.google.com/file/d/1vH04doINdgCGPN-bqc2pETRKESubdo94/view?usp=drive_link)              |                                    |
 | 3    | Jan 22      | Project Brainstorming                  |              |                                    |
-| 4    | Jan 29       | Structural Causal Models, Identification           |   [Slides](https://drive.google.com/file/d/1i-0G6tH7FYiGfVbuiaNzGDEIl3xBUHHg/view?usp=sharing )          |                                    |
-| 5    | Feb 5       | Causal Estimation (Guest Lecture), Fair Ranking (Guest Lecture)                    |              |                                    |
+| 4    | Jan 29       | Structural Causal Models, Identification           |   [Slides](https://drive.google.com/file/d/1i-0G6tH7FYiGfVbuiaNzGDEIl3xBUHHg/view?usp=sharing )  [Recording](https://drive.google.com/file/d/1z6BRUWoWf4F4i4y-e2sMzyrqT0SDZdBY/view?usp=sharing)        |                                    |
+| 5    | Feb 5       | Causal Estimation (Guest Lecture), Fair Ranking (Guest Lecture)                    |    [Recording](https://drive.google.com/file/d/1zBdVg35l9zbay9vHl_Vu2jNWceGjf-kA/view?usp=sharing)                  |                                    |
 | 6    | Feb 12      | Algorithmic Fairness                        |              |                                    |
 | 7    | Feb 19      | Fairness and Privacy (Guest Lecture), Data Cleaning                          |              |                                    |
 | 8    | Feb 26       | Data Profiling, Data Profiling (Guest Lecture)  |              |                                    |
