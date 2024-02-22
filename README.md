@@ -36,7 +36,7 @@ Tuesdays and Thursdays at	5:00pm-6:20pm
 **Office Hours:**
 Baharan Khatami: Mon 15:00-16:00. [Zoom link](https://ucsd.zoom.us/j/3995044290?pwd=YTVPeXRsVTU2aEJ6WEc4OERHTHVZQT09)
 Jiongli Zhu: Thu 10:00-11:00am. [Zoom link](https://ucsd.zoom.us/my/jionglizhu)   
-Parjanya Prashant: Wed 14:00-15:00. [Zoom link](https://ucsd.zoom.us/j/2410312532)
+Parjanya Prashant: Wed 13:00-14:00. [Zoom link](https://ucsd.zoom.us/j/2410312532)
 
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar). 
