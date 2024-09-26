@@ -52,8 +52,6 @@ In this course, students will engage in a project-based learning experience, emp
 
 The course will have three checkpoints: an initial proposal, a midterm update, and a final report. Students are encouraged to meet with the instructor regularly for guidance. The project will culminate in a short in-class presentation. Evaluation will consider the team's effort, the results, the quality of the related work survey, and the effectiveness of their presentation and final report. Students will also participate in peer reviews, offering and receiving constructive feedback. To enhance the learning experience, students will create visual posters and dynamic presentations, aiming to foster a deep understanding of responsible data science. For detailed project ideas and refer to the provided [Google Docs](https://docs.google.com/document/d/1kHHP4fdphdSLMjyppPO7sn2Ux_j_9ABr3q-u447_GrU/edit?usp=sharing).
 
-Titles and abstracts of courses in the last offering can be found here: [Past Projects](past_projects.md)
-
 
 ## Project Timeline
 
